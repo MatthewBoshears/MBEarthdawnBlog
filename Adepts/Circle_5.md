@@ -8,4 +8,4 @@ permalink: Adepts/circle_five/
 
 This is a list of possible Circle 5 Adepts.
 <br>
-[Warrior Wizard Leader](warrior_wizard_leader)
+[Warrior Wizard Leader](/Adepts/circle_five/warrior_wizard_leader)

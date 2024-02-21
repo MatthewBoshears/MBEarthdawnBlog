@@ -2,7 +2,7 @@
 layout: default
 title: Tactical
 nav_exclude: True
-permalink: masks/tactical
+permalink: masks/tactical/
 ---
 # Tactical Masks
 This is a mask designed to make a leader more "tactical" - they're more of a leader and less of a fighter. It is not designed for usage on a solo gigantic monster. It is designed as a force multiplier.
