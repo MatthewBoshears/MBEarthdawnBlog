@@ -36,7 +36,7 @@ Adept Warrior Wizard Lieutenant
 <br>
 Insert lore blurb here later. I'm just putting this here in case it's required by roll20's import feature.
 <br>
-Challenge: Journeyman (Eight Circle)
+Challenge: Journeyman (Eighth Circle)
 <br>
 DEX: 7 Init: 15 Uncon: 62
 <br>
