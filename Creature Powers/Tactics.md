@@ -5,6 +5,9 @@ nav_exclude: True
 permalink: creature_powers/tactics
 ---
 # Tactics
+
+
+<br>
 This is written assuming you have a decent grasp of the rules and are reading in good faith. I have not taken the time to wordsmith this to an ironclad level. Use it at your own discretion.
 <br>
 <br>

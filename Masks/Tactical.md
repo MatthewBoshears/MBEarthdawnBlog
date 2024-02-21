@@ -5,6 +5,9 @@ nav_exclude: True
 permalink: masks/tactical/
 ---
 # Tactical Masks
+
+
+<br>
 This is a mask designed to make a leader more "tactical" - they're more of a leader and less of a fighter. It is not designed for usage on a solo gigantic monster. It is designed as a force multiplier.
 <br>
 If your encounter has more than 1.5 monsters per PC, these are probably worth more circles worth of difficulty. Hardened Tactical is better at ECR 6+. Unhardened is better at ECR 1-5 (Novice and start of Journeyman).

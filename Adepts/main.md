@@ -5,6 +5,9 @@ nav_order: 2
 permalink: Adepts/
 ---
 # Adepts
+
+
+<br>
 I am referring to these not by the actual level of the adepts, but by the difficulty of the monster.
 <br>
 Standard monster manual style.
