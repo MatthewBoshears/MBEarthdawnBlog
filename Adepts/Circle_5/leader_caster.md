@@ -60,6 +60,7 @@ Mind Dagger: Targets Mystical Defense and the target suffers -2 to their Physica
 Fearless (5): The Silver Branch magician sergeant gains +5 to their Defenses against fear-based effects.
 <br>
 Tactics (11): As the talent, Player’s Guide, p. 172.
+<br>
 Size Up (10): As the Swordmaster ability, Player's Guide, p. 107. Use this as a secret GM roll to determine knowledge of defenses. This does not cost strain.
 <br>
 Special Maneuvers:
