@@ -69,8 +69,8 @@ Average Armor is 2.44, but realistically 3. Standard Deviation is 1.6. Low armor
 
 ### Circle 3
 
-| Creature       | Physical Defense |
-|----------------|------------------|
+| Creature               | Physical Armor    |
+|------------------------|-------------------|
 | Silverback Ape | 4                |
 | Shrieker Bat   | 4                |
 | Bear           | 5                |
@@ -92,8 +92,8 @@ Average Armor is 4. Standard deviation is 1.46. Low armor is 3, High armor is 7.
 
 ### Circle 4
 
-| Creature               | Physical Defense |
-|------------------------|------------------|
+| Creature               | Physical Armor    |
+|------------------------|-------------------|
 | Great Bear             | 7                |
 | Cockatrice             | 4                |
 | Crakbill               | 4                |
@@ -118,3 +118,72 @@ Average Armor is 4. Standard deviation is 1.46. Low armor is 3, High armor is 7.
 | Cadaver Men            | 6                |
 
 Average Armor is 4.82, but realistically 5. Standard Deviation is 1.8. Low armor is 2 (by math 3, but realistically 2). High armor is 7.
+
+### Circle 5
+
+| Creature               | Physical Armor    |
+|------------------------|-------------------|
+| Brithan          |         8         |
+| Troll            |         6         |
+| Crojen           |         6         |
+| Demiwraith       |         3         |
+| Hound            |         4         |
+| Globberog        |         8         |
+| Griffin          |         4         |
+| Wood             |         5         |
+| Lightning        |         7         |
+| Twins            |         9         |
+| Prisma           |         8         |
+| Shadowmant       |         4         |
+| Snake            |         8         |
+| Badger           |         5         |
+| Beast            |         9         |
+| Ethandrille      |         4         |
+| Wolf             |         6         |
+
+Average is 6.12 (6.00). Standard Deviation is 1.91. Low is 4.00, high is 8.00.
+
+### Circle 6
+
+| Creature               | Physical Armor    |
+|------------------------|-------------------|
+| Basilisk         |        10         |
+| Changeling       |         4         |
+| Espagra          |         5         |
+| Felux            |         5         |
+| Jungle           |         5         |
+| Hound            |         6         |
+| Inshalata        |        10         |
+| Manticore        |         8         |
+| Naga             |         5         |
+| Rockworm         |        10         |
+| Lobster          |        16         |
+| Saural           |         8         |
+| Velos            |        10         |
+| Witherfang       |         6         |
+
+Average is 7.71 (8.00). Standard Deviation is 3.15. Low is 5.00, high is 11.00.
+
+### Circle 7
+
+| Creature               | Physical Armor    |
+|------------------------|-------------------|
+| Firebird               |         7         |
+| Gargoyle               |        10         |
+| Krillra                |        10         |
+| Stone                  |        10         |
+| Skeorx                 |         7         |
+| Thunderbird            |         7         |
+| Unicorn                |         5         |
+
+Average is 8.00 (8.00). Standard Deviation is 1.85. Low is 6.00, high is 10.00.
+
+| Creature               | Physical Armor    |
+|------------------------|-------------------|
+| Behemoth               |        10         |
+| Crab                   |        18         |
+| Greater                |        18         |
+| Volus                  |        12         |
+| Statistics             |        10         |
+
+Average is 13.60 (14.00). Standard Deviation is 3.67. Low is 10.00, high is 17.00.

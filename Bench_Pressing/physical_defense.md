@@ -130,3 +130,74 @@ Average is 10.625 (11). Standard Deviation is 1.5. Low is 9, high is 12.
 
 <br>
 Average is 10.87 (11). Standard Deviation is 2.2. Low is 9, high is 13.
+
+### Circle 5
+
+| Creature        | Physical Defense   |
+|-----------------|--------------------|
+| Brithan          |        10         |
+| Troll            |        13         |
+| Crojen           |        16         |
+| Demiwraith       |        13         |
+| Hound            |        10         |
+| Globberog        |         8         |
+| Griffin          |        14         |
+| Wood             |        15         |
+| Lightning        |        11         |
+| Twins            |        11         |
+| Prisma           |        15         |
+| Shadowmant       |        11         |
+| Snake            |        13         |
+| Badger           |        10         |
+| Beast            |        12         |
+| Ethandrille      |        11         |
+| Wolf             |        12         |
+
+Average is 12.06 (12.00). Standard Deviation is 2.07. Low is 10, high is 14.
+
+### Circle 6
+
+| Creature        | Physical Defense   |
+|-----------------|--------------------|
+| Basilisk         |        11         |
+| Changeling       |        17         |
+| Espagra          |        16         |
+| Felux            |        16         |
+| Jungle           |        15         |
+| Hound            |        13         |
+| Inshalata        |        13         |
+| Manticore        |        13         |
+| Naga             |        13         |
+| Rockworm         |        11         |
+| Lobster          |        10         |
+| Saural           |        13         |
+| Velos            |        15         |
+| Witherfang       |        15         |
+
+Average is 13.64 (14.00). Standard Deviation is 2.02. Low is 12.00, high is 16.00.
+
+### Circle 7
+
+| Creature        | Physical Defense   |
+|-----------------|--------------------|
+| Firebird         |        16         |
+| Gargoyle         |        14         |
+| Krillra          |        12         |
+| Stone            |        15         |
+| Skeorx           |        16         |
+| Thunderbird      |        14         |
+| Unicorn          |        14         |
+
+Average is 14.43 (14.00). Standard Deviation is 1.29. Low is 13.00, high is 16.00.
+
+### Circle 8
+
+| Creature        | Physical Defense   |
+|-----------------|--------------------|
+| Behemoth         |        13         |
+| Crab             |        10         |
+| Greater          |        11         |
+| Volus            |        12         |
+| Statistics       |        15         |
+
+Average is 12.20 (12.00). Standard Deviation is 1.72. Low is 10.00, high is 14.00.

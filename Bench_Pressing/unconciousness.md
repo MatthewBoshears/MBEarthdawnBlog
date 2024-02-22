@@ -118,3 +118,74 @@ The average is 34.125 (34). The Standard Deviation is 4.7. The low value is 30, 
 | Cadaver Men            | 52               |
 
 The average is 42.7 (43). The Standard Deviation is 8.4. The low value is 35, the high value is 51.
+
+### Circle 5
+
+| Creature               | Unconsciousness   |
+|------------------------|-------------------|
+| Brithan          |        61         |
+| Troll            |        49         |
+| Crojen           |        43         |
+| Demiwraith       |        46         |
+| Hound            |        49         |
+| Globberog        |        55         |
+| Griffin          |        46         |
+| Wood             |        43         |
+| Lightning        |        45         |
+| Twins            |        55         |
+| Prisma           |        52         |
+| Shadowmant       |        43         |
+| Snake            |        55         |
+| Badger           |        43         |
+| Beast            |        61         |
+| Ethandrille      |        46         |
+| Wolf             |        46         |
+
+Average is 49.29 (49.00). Standard Deviation is 5.94. Low is 43.00, high is 55.00.
+
+### Circle 6
+
+| Creature               | Unconsciousness   |
+|------------------------|-------------------|
+| Basilisk         |        48         |
+| Changeling       |        45         |
+| Espagra          |        54         |
+| Felux            |        48         |
+| Jungle           |        51         |
+| Hound            |        51         |
+| Inshalata        |        57         |
+| Manticore        |        57         |
+| Naga             |        60         |
+| Rockworm         |        63         |
+| Lobster          |        72         |
+| Saural           |        48         |
+| Velos            |        60         |
+| Witherfang       |        48         |
+
+Average is 54.43 (54.00). Standard Deviation is 7.25. Low is 47.00, high is 62.00.
+
+### Circle 7
+
+| Creature               | Unconsciousness   |
+|------------------------|-------------------|
+| Firebird         |        53         |
+| Gargoyle         |        83         |
+| Krillra          |        71         |
+| Stone            |        71         |
+| Skeorx           |        59         |
+| Thunderbird      |        71         |
+| Unicorn          |        62         |
+
+Average is 67.14 (67.00). Standard Deviation is 9.17. Low is 58.00, high is 76.00.
+
+### Circle 8
+
+| Creature               | Unconsciousness   |
+|------------------------|-------------------|
+| Behemoth         |        91         |
+| Crab             |        87         |
+| Greater          |        100        |
+| Volus            |        76         |
+| Statistics       |        76         |
+
+Average is 86.00 (86.00). Standard Deviation is 9.19. Low is 77.00, high is 95.00.

@@ -15,4 +15,8 @@ What is this? It's a basic guide to the numbers you want to hit to fight monster
 <br>
 [Physical Armor](/bench_pressing/physical_armor)
 <br>
-[Physical Damage](/bench_pressing/hitting_pa)
+[Wound Threshold](/bench_pressing/wound_threshold)
+<br>
+[Unconciousness](/bench_pressing/unconciousness)
+<br>
+[Physical Damage Goals](/bench_pressing/hitting_pa)

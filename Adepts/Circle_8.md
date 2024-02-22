@@ -10,4 +10,4 @@ permalink: Adepts/circle_eight/
 <br>
 This is a list of possible Circle 8 Adepts.
 <br>
-[Warrior Wizard Leader](/Adepts/circle_five/warrior_wizard_leader)
+[Warrior Wizard Leader](/Adepts/circle_eight/warrior_wizard_leader)
