@@ -2,7 +2,7 @@
 layout: default
 title: Physical Defense
 nav_exclude: True
-permalink: bench_pressing/physical_defense
+permalink: bench_pressing/hitting_monsters/physical_defense
 search_exclude: True
 ---
 # Physical Defense
@@ -198,6 +198,6 @@ Average is 14.43 (14.00). Standard Deviation is 1.29. Low is 13.00, high is 16.0
 | Crab             |        10         |
 | Greater          |        11         |
 | Volus            |        12         |
-| Statistics       |        15         |
+| Lesser Drake     |        15         |
 
 Average is 12.20 (12.00). Standard Deviation is 1.72. Low is 10.00, high is 14.00.

@@ -2,7 +2,7 @@
 layout: default
 title: Wound Threshold
 nav_exclude: True
-permalink: bench_pressing/wound_threshold
+permalink: bench_pressing/hitting_monsters/wound_threshold
 search_exclude: True
 ---
 # Wound Threshold

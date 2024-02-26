@@ -2,7 +2,7 @@
 layout: default
 title: Physical Armor
 nav_exclude: True
-permalink: bench_pressing/physical_armor
+permalink: bench_pressing/hitting_monsters/physical_armor
 search_exclude: True
 ---
 # Physical Armor

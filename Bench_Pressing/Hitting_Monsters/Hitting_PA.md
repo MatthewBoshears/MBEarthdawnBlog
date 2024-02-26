@@ -2,7 +2,7 @@
 layout: default
 title: Hitting Physical Armor
 nav_exclude: True
-permalink: bench_pressing/hitting_pa
+permalink: bench_pressing/hitting_monsters/hitting_pa
 search_exclude: True
 ---
 # Hitting Physical Armor
@@ -31,16 +31,16 @@ ceiling((Unconciousness Avg + Armor Average \* (2 +.6\*circle number)) / (2 +.6\
 This is a "simple" table with the stated goal of dealing a wound to a monster.
 <br>
 
-| Circle   | Dmg Goal | Number of Hits | To-Hit PD Low | To-Hit PD Avg | To-Hit PD High | Wound Threshold Avg | Armor Average |
-|----------|----------|----------------|---------------|---------------|----------------|--------------------|---------------|
-| Circle 1 | 7        | 2.6            | 7             | 9             | 11             | 6                  | 1             |
-| Circle 2 | 11       | 3.2            | 8             | 10            | 12             | 8                  | 3             |
-| Circle 3 | 14       | 3.8            | 9             | 11            | 12             | 9                  | 4             |
-| Circle 4 | 16       | 4.4            | 9             | 11            | 13             | 11                 | 5             |
-| Circle 5 | 18       | 5.0            | 10            | 12            | 14             | 12                 | 6             |
-| Circle 6 | 20       | 5.6            | 12            | 14            | 16             | 12                 | 8             |
-| Circle 7 | 24       | 6.2            | 13            | 14            | 16             | 16                 | 8             |
-| Circle 8 | 34       | 6.8            | 9             | 11            | 13             | 20                 | 14            |
+| Circle   | Dmg Goal | To-Hit PD Low | To-Hit PD Avg | To-Hit PD High | Wound Threshold Avg | Armor Average |
+|----------|----------|---------------|---------------|---------------|----------------|--------------------|---------------|
+| Circle 1 | 7        | 7             | 9             | 11             | 6                  | 1             |
+| Circle 2 | 11       | 8             | 10            | 12             | 8                  | 3             |
+| Circle 3 | 14       | 9             | 11            | 12             | 9                  | 4             |
+| Circle 4 | 16       | 9             | 11            | 13             | 11                 | 5             |
+| Circle 5 | 18       | 10            | 12            | 14             | 12                 | 6             |
+| Circle 6 | 20       | 12            | 14            | 16             | 12                 | 8             |
+| Circle 7 | 24       | 13            | 14            | 16             | 16                 | 8             |
+| Circle 8 | 34       | 9             | 11            | 13             | 20                 | 14            |
 
 <br>
 Calculation for Effective Damage Goal:

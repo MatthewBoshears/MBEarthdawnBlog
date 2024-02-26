@@ -2,7 +2,7 @@
 layout: default
 title: Unconciousness
 nav_exclude: True
-permalink: bench_pressing/unconciousness
+permalink: bench_pressing/hitting_monsters/unconciousness
 search_exclude: True
 ---
 # Unconciousness
