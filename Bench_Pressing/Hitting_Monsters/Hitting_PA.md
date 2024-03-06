@@ -26,7 +26,7 @@ Calculate your effective damage with this simple formula: Base Damage + Modifier
 
 <br>
 Calculation for Effective Damage Goal:
-ceiling((Unconciousness Avg + Armor Average \* (2 +.6\*circle number)) / (2 +.6\*circle number)
+ceiling((Unconciousness Avg + Armor Average \* (2 +.6\*circle number)) / (2 +.6\*circle number))
 <br>
 This is a "simple" table with the stated goal of dealing a wound to a monster.
 <br>

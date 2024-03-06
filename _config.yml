@@ -2,3 +2,9 @@ title: PrototypeInSession's Blog
 description: PrototypeInSession's Earthdawn Blog-Thing.
 theme: just-the-docs
 color_scheme: dark
+
+head:
+  - /assets/pdfjs/build/pdf.js
+
+scripts:
+  - /assets/scripts/pdf-functions.js

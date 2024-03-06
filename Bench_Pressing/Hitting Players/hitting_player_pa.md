@@ -8,9 +8,9 @@ search_exclude: True
 # Hitting Player Physical Armor
 
 <br>
-This is a "simple" table with the stated goal of not getting hit by monsters. These are not all achievable. This is fine. You are meant to be hit. This is just to show you, on average, what WT+PA you should have. I have looked at the Average Step's effect in Anydice, ignored explosions, and gone 1 standard deviation above the average. I rounded to the nearest number, not always up. This means you will be wounded by approximately 15% of damages. This does not include Karma.
+This is a "simple" table with the stated goal of not getting hit by monsters. These are not all achievable. This is fine. You are meant to be hit. This is just to show you, on average, what WT+PA you should have. I have looked at the Average Step's effect in Anydice, ignored explosions, and gone 1 standard deviation above the average. I rounded to the nearest number, not always up. This means you will be wounded by approximately 15% of damages that do not have extra successes beyond the prediction. This does not include Karma in any fashion.
 <br>
-It is better to have more PA than WT, but the value here is just your total. The PA you want is the Dmg Avg.
+It is better to have more PA than WT, but the value here is just your total. The PA you want is the Dmg Avg. If you want to calculate what Karma from enemies is like, add either 4 directly to the damage (karma to damage) or 2 to the damage (karma to hit). This means you should re-reference the table. [ESR](/bench_pressing/step_deviation_table)
 <br>
 
 | Circle   | WT+PA Goal |  Dmg Low       | Dmg Avg       | Dmg High       |
@@ -26,8 +26,7 @@ It is better to have more PA than WT, but the value here is just your total. The
 
 <br>
 At the end is a list of the standard buffs found at each circle in the GMG. I have not done the Companion yet. I will. Anyway, stats:
-
-
+<br>
 
 ### Circle 1
 
@@ -72,7 +71,7 @@ At the end is a list of the standard buffs found at each circle in the GMG. I ha
 |-------------------|------------|----------------|
 | Base              | 19         | 17             |
 | Fury 2            | 21         | 19             |
-| Ambush 10         | 11         | 33             | #CALCULATE
+| Ambush 10         | 11         | 33             |
 | Charge 10         | 38         | 31             |
 | Surprise Strike 5 | 26         | 23             |
 | Surprise Strike 10| 33         | 28             |
