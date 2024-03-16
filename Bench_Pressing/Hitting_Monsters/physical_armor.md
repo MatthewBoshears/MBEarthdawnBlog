@@ -8,7 +8,9 @@ search_exclude: True
 # Physical Armor
 
 <br>
-This is a breakdown of the physical armor of every monster at each Circle Rating available in the books. This guide considers Horrors to be Circle Rating in the book +1, as this is the standard in Earthdawn Westmarches.
+This is a breakdown of the physical armor of every monster at each Circle Rating available in the GMG. This guide considers Horrors to be Circle Rating in the book +1, as this is the standard in Earthdawn Westmarches.
+<br>
+Some tables still have horrors. Horrors will be removed later.
 <br>
 
 ### Circle 1
@@ -177,6 +179,8 @@ Average is 7.71 (8.00). Standard Deviation is 3.15. Low is 5.00, high is 11.00.
 | Unicorn                |         5         |
 
 Average is 8.00 (8.00). Standard Deviation is 1.85. Low is 6.00, high is 10.00.
+
+### Circle 8
 
 | Creature               | Physical Armor    |
 |------------------------|-------------------|

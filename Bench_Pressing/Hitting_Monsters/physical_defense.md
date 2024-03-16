@@ -8,7 +8,12 @@ search_exclude: True
 # Physical Defense
 
 <br>
-This is a breakdown of the physical defense of every monster at each Circle Rating available in the books. This guide considers Horrors to be Circle Rating in the book +1, as this is the standard in Earthdawn Westmarches. This means you want your effective attack step to average this or higher if you want to hit the monster.
+This is a breakdown of the physical defense of every monster at each Circle Rating available in the GMG. This guide considers Horrors to be Circle Rating in the book +1, as this is the standard in Earthdawn Westmarches. This means you want your effective attack step to average this or higher if you want to hit the monster.
+<br>
+This table is incomplete. Eventually I'll put it on every page.
+<br>
+<br>
+Some tables still have horrors. Horrors will be removed later.
 <br>
 
 | Circle   | Low | Average | High |

@@ -18,6 +18,13 @@ The true "bench marking" pages/what you should be here for:
 <br>
 [Player Physical Defense Goals](/bench_pressing/hitting_players/hitting_pd)
 <br>
+[Player Physical Defense Goals](/bench_pressing/hitting_players/hitting_pd)
+<br>
+Monster Stats
+<br>
+[Monster Attacks](bench_pressing/hitting_players/monster_attacks)
+[Monster Buffs](bench_pressing/hitting_players/monster_buffs)
+[Monster Damage](bench_pressing/hitting_players/monster_damage)
 Source Data
 <br>
 [Physical Defense](/bench_pressing/hitting_monsters/physical_defense)
@@ -27,4 +34,10 @@ Source Data
 [Wound Threshold](/bench_pressing/hitting_monsters/wound_threshold)
 <br>
 [Unconciousness](/bench_pressing/hitting_monsters/unconciousness)
+<br>
+[Monster Attacks](bench_pressing/hitting_players/monster_attacks)
+<br>
+[Monster Buffs](bench_pressing/hitting_players/monster_buffs)
+<br>
+[Monster Damage](bench_pressing/hitting_players/monster_damage)
 <br>

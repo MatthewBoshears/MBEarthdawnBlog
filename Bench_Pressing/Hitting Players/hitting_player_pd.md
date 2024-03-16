@@ -19,13 +19,13 @@ Remember: These are *not* supposed to be achievable at all stages. This is to be
 | Circle 2 | 14       | 10             | 11            | 12             | 
 | Circle 3 | 15       | 10             | 12            | 13             | 
 | Circle 4 | 15       | 11             | 12            | 14             |
-| Circle 5 | 18       | 13             | 15            | 17             |
-| Circle 6 | 18       | 13             | 15            | 17             |
-| Circle 7 | 20       | 14             | 16            | 18             |
-| Circle 8 | 23       | 17             | 19            | 20             |
+| Circle 5 | 20       | 13             | 15            | 17             |
+| Circle 6 | 20       | 13             | 15            | 17             |
+| Circle 7 | 21       | 14             | 16            | 18             |
+| Circle 8 | 24       | 17             | 19            | 20             |
 
 <br>
-This table includes Karma. Reminder, this ignores explosions. So it's not wholly accurate. But it's a "broad" idea.
+This table includes Karma, so an effective +4 to hit. Reminder, this ignores explosions. So it's not wholly accurate. But it's a "broad" idea.
 <br>
 
 | Circle   | PD Goal  |  To-Hit PD Low | To-Hit PD Avg | To-Hit PD High |
@@ -34,7 +34,7 @@ This table includes Karma. Reminder, this ignores explosions. So it's not wholly
 | Circle 2 | 18       | 10             | 11            | 12             | 
 | Circle 3 | 19       | 10             | 12            | 13             | 
 | Circle 4 | 19       | 11             | 12            | 14             |
-| Circle 5 | 23       | 13             | 15            | 17             |
-| Circle 6 | 23       | 13             | 15            | 17             |
+| Circle 5 | 24       | 13             | 15            | 17             |
+| Circle 6 | 24       | 13             | 15            | 17             |
 | Circle 7 | 25       | 14             | 16            | 18             |
-| Circle 8 | 27       | 17             | 19            | 20             |
+| Circle 8 | 28       | 17             | 19            | 20             |

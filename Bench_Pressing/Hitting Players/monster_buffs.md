@@ -85,5 +85,3 @@ Charge (10)
 
 Ambush (10)
 <br>
-
-Steps:

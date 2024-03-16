@@ -16,13 +16,13 @@ It is better to have more PA than WT, but the value here is just your total. The
 | Circle   | WT+PA Goal |  Dmg Low       | Dmg Avg       | Dmg High       |
 |----------|------------|----------------|---------------|----------------|
 | Circle 1 | 11         | 6              | 9             | 12             |
-| Circle 2 | 13         | 9              | 11            | 13             | 
-| Circle 3 | 14         | 10             | 13            | 15             | 
-| Circle 4 | 17         | 11             | 14            | 18             |
-| Circle 5 | 21         | 14             | 17            | 20             |
-| Circle 6 | 18         | 13             | 15            | 17             |
-| Circle 7 | 21         | 19             | 20            | 22             |
-| Circle 8 | 26         | 21             | 23            | 26             |
+| Circle 2 | 14         | 9              | 11            | 13             | 
+| Circle 3 | 16         | 10             | 13            | 15             | 
+| Circle 4 | 19         | 11             | 14            | 18             |
+| Circle 5 | 22         | 14             | 17            | 20             |
+| Circle 6 | 20         | 13             | 15            | 17             |
+| Circle 7 | 25         | 19             | 20            | 22             |
+| Circle 8 | 29         | 21             | 23            | 26             |
 
 <br>
 At the end is a list of the standard buffs found at each circle in the GMG. I have not done the Companion yet. I will. Anyway, stats:
@@ -33,71 +33,71 @@ At the end is a list of the standard buffs found at each circle in the GMG. I ha
 | Buff     | WT+PA Goal |Dmg Avg         |
 |----------|------------|----------------|
 | Base     | 11         | 9              |
-| Ambush 5 | 22         | 18             |
-| Dive 5   | 19         | 16             | 
-| Harried  | 11         | 10             |
+| Ambush 5 | 24         | 18             |
+| Dive 5   | 21         | 16             | 
+| Harried  | 12         | 10             |
 
 ### Circle 2
 
 | Buff             | WT+PA Goal | Dmg Avg        |
 |------------------|------------|----------------|
-| Base             | 13         | 11             |
-| Ambush 5         | 21         | 20             |
-| Dive/Charge 5    | 19         | 17             |
-| Surprise Strike  | 19         | 17             |
-| Harried          | 14         | 12             |
+| Base             | 14         | 11             |
+| Ambush 5         | 25         | 20             |
+| Dive/Charge 5    | 24         | 18             |
+| Surprise Strike  | 22         | 17             |
+| Harried          | 15         | 12             |
 
 ### Circle 3
 
 | Buff             | WT+PA Goal | Dmg Avg        |
 |------------------|------------|----------------|
-| Base             | 15         | 13             |
-| Fury 2           | 18         | 15             |
-| Ambush 5         | 26         | 22             |
-| Surprise Strike 5| 21         | 19             |
-| Harried          | 16         | 14             |
+| Base             | 16         | 13             |
+| Fury 2           | 20         | 15             |
+| Ambush 5         | 27         | 22             |
+| Surprise Strike 5| 24         | 19             |
+| Harried          | 19         | 14             |
 
 ### Circle 4
 
 | Buff             | WT+PA Goal | Dmg Avg        |
 |------------------|------------|----------------|
-| Base             | 16         | 14             |
-| Ambush 5         | 26         | 23             |
-| Charge 5         | 21         | 20             |
+| Base             | 19         | 14             |
+| Ambush 5         | 29         | 23             |
+| Charge 5         | 26         | 21             |
 
 ### Circle 5
 
 | Buff              | WT+PA Goal | Dmg Avg        |
 |-------------------|------------|----------------|
-| Base              | 19         | 17             |
-| Fury 2            | 21         | 19             |
-| Ambush 10         | 11         | 33             |
-| Charge 10         | 38         | 31             |
-| Surprise Strike 5 | 26         | 23             |
+| Base              | 22         | 17             |
+| Fury 2            | 24         | 19             |
+| Ambush 10         | 38         | 33             |
+| Charge 10         | 36         | 31             |
+| Surprise Strike 5 | 29         | 23             |
 | Surprise Strike 10| 33         | 28             |
 
 ### Circle 6
 
 | Buff              | WT+PA Goal | Dmg Avg        |
 |-------------------|------------|----------------|
-| Base              | 18         | 15             |
-| Ambush 10         | 38         | 31             |
-| Dive/Charge 10    | 34         | 29             |
+| Base              | 20         | 15             |
+| Ambush 10         | 36         | 31             |
+| Dive/Charge 10    | 35         | 29             |
 
 ### Circle 7
 
 | Buff              | WT+PA Goal | Dmg Avg        |
 |-------------------|------------|----------------|
-| Base              | 21         | 20             |
-| Ambush 10         | 44         | 36             |
-| Dive/Charge 10    | 45         | 34             |
+| Base              | 25         | 20             |
+| Ambush 10         | 42         | 36             |
+| Dive/Charge 10    | 39         | 34             |
 
 ### Circle 8
 
 | Buff              | WT+PA Goal | Dmg Avg        |
 |-------------------|------------|----------------|
-| Base              | 26         | 23             |
-| Ambush 10         | 50         | 39             |
+| Base              | 29         | 23             |
+| Ambush 10         | 46         | 39             |
 
 <br> 
 Here's how each is calculated:
@@ -113,15 +113,28 @@ Harried is equal to 1 extra damage. It is not included in this chart. It is not 
 This is only for the average. To account for a "true" bench pressing experience, add the difference between avg and high * 1.25 and round up for each circle. So for Circle 2, 13-11 is 2. Add 25% more. Round up. 3.
 <br>
 
+<br>
+These are buffs/debuff (harried) that are listed in the monster stat blocks explicitly.
+
 ### Buff Table
 
 | Buff               | Extra Damage|
 |--------------------|-------------|
 | Ambush 5           | 9           |
-| Dive 5             | 6           |
+| Dive/Charge 5      | 7           |
 | Harried            | 1           | 
 | Surprise Strike 5  | 6           |
 | Fury 2             | 2           |
 | Ambush 10          | 16          |
 | Dive/Charge 10     | 14          |
 | Surprise Strike 10 | 11          |
+
+
+<br>
+These are buffs that can be applied to any PC in any given encounter.
+<br>
+### Stackable Buffs
+
+| Harried            | 1           | 
+| Blindsiding        | 1           |
+| Knockdown          | 2           |

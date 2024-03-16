@@ -10,6 +10,8 @@ search_exclude: True
 <br>
 This is a breakdown of the unconciousness of every monster at each Circle Rating available in the books. This guide considers Horrors to be Circle Rating in the book +1, as this is the standard in Earthdawn Westmarches.
 <br>
+Some tables still have horrors. Horrors will be removed later.
+<br>
 
 ### Circle 1
 
