@@ -16,8 +16,8 @@ Remember: These are *not* supposed to be achievable at all stages. This is to be
 | Circle   | PD Goal  |  To-Hit PD Low | To-Hit PD Avg | To-Hit PD High |
 |----------|----------|----------------|---------------|----------------|
 | Circle 1 | 12       | 8              | 10            | 11             |
-| Circle 2 | 14       | 10             | 11            | 12             | 
-| Circle 3 | 15       | 10             | 12            | 13             | 
+| Circle 2 | 14       | 10             | 11            | 12             |
+| Circle 3 | 15       | 10             | 12            | 13             |
 | Circle 4 | 15       | 11             | 12            | 14             |
 | Circle 5 | 20       | 13             | 15            | 17             |
 | Circle 6 | 20       | 13             | 15            | 17             |

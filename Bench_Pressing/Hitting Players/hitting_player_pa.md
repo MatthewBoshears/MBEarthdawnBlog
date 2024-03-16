@@ -16,8 +16,8 @@ It is better to have more PA than WT, but the value here is just your total. The
 | Circle   | WT+PA Goal |  Dmg Low       | Dmg Avg       | Dmg High       |
 |----------|------------|----------------|---------------|----------------|
 | Circle 1 | 11         | 6              | 9             | 12             |
-| Circle 2 | 14         | 9              | 11            | 13             | 
-| Circle 3 | 16         | 10             | 13            | 15             | 
+| Circle 2 | 14         | 9              | 11            | 13             |
+| Circle 3 | 16         | 10             | 13            | 15             |
 | Circle 4 | 19         | 11             | 14            | 18             |
 | Circle 5 | 22         | 14             | 17            | 20             |
 | Circle 6 | 20         | 13             | 15            | 17             |

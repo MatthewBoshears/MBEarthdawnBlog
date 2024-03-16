@@ -15,18 +15,20 @@ Remember that karma is +4. So if you have a PER of 7 and a spellcasting rank of 
 
 
 # Mystic Defense
-| Circle Number | Low | Average | High |
-| ------------- | ---- | -------- | ----- |
-| Circle 1      | 7.00 |  8    | 10.00 |
-| Circle 2      | 7.00 |  8    | 9.00  |
-| Circle 3      | 8.00 |  9    | 11.00 | 
-| Circle 4      | 7.00 |  10   | 12.00 |
-| Circle 5      | 10.00|  12   | 13.00 |
-| Circle 6      | 11.00|  13   | 15.00 |
-| Circle 7      | 13.00|  15   | 16.00 |
-| Circle 8      | 14.00|  16   | 18.00 |
+
+| Circle Number | Low  | Average  | High  |
+|---------------|------|----------|-------|
+| Circle 1      | 7.00 |  8       | 10.00 |
+| Circle 2      | 7.00 |  8       | 9.00  |
+| Circle 3      | 8.00 |  9       | 11.00 | 
+| Circle 4      | 7.00 |  10      | 12.00 |
+| Circle 5      | 10.00|  12      | 13.00 |
+| Circle 6      | 11.00|  13      | 15.00 |
+| Circle 7      | 13.00|  15      | 16.00 |
+| Circle 8      | 14.00|  16      | 18.00 |
 
 # Spellcasting
+
 | Necessary Effective Spellcasting Step | Target MD |  
 |  13 | 8  | 
 |  16 | 9  |
