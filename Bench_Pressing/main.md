@@ -22,9 +22,6 @@ The true "bench marking" pages/what you should be here for:
 <br>
 Monster Stats
 <br>
-[Monster Attacks](bench_pressing/hitting_players/monster_attacks)
-[Monster Buffs](bench_pressing/hitting_players/monster_buffs)
-[Monster Damage](bench_pressing/hitting_players/monster_damage)
 Source Data
 <br>
 [Physical Defense](/bench_pressing/hitting_monsters/physical_defense)
@@ -35,9 +32,9 @@ Source Data
 <br>
 [Unconciousness](/bench_pressing/hitting_monsters/unconciousness)
 <br>
-[Monster Attacks](bench_pressing/hitting_players/monster_attacks)
+[Monster Attacks](/bench_pressing/hitting_players/monster_attacks)
 <br>
-[Monster Buffs](bench_pressing/hitting_players/monster_buffs)
+[Monster Buffs](/bench_pressing/hitting_players/monster_buffs)
 <br>
-[Monster Damage](bench_pressing/hitting_players/monster_damage)
+[Monster Damage](/bench_pressing/hitting_players/monster_damage)
 <br>

@@ -8,7 +8,7 @@ search_exclude: True
 # Hitting Physical Armor
 
 <br>
-This is a "simple" table with the stated goal of hitting a monster with 86% of mystical-based attacks (karma not included). This chart is referencing [step deviation table](bench_pressing/step_deviation_table) here. Which calculate average - 1 SD. Then the step for that is placed in the chart.
+This is a "simple" table with the stated goal of hitting a monster with 86% of mystical-based attacks (karma not included). This chart is referencing [step deviation table](/bench_pressing/step_deviation_table) here. Which calculate average - 1 SD. Then the step for that is placed in the chart.
 <br>
 Remember that karma is +4. So if you have a PER of 7 and a spellcasting rank of 6, you have an ESR of 13 without karma. 17 with karma. This means you can hit mystic defense 10 >86% of the time. If you blindside, this is equal to an effective +2. Looking at how high deviation higher steps are, blindsiding is very impactful.
 <br>
