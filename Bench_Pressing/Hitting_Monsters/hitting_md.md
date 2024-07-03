@@ -5,7 +5,7 @@ nav_exclude: True
 permalink: bench_pressing/hitting_monsters/hitting_md
 search_exclude: True
 ---
-# Hitting Physical Armor
+# Hitting Mystic Defense
 
 <br>
 This is a "simple" table with the stated goal of hitting a monster with 86% of mystical-based attacks (karma not included). This chart is referencing [step deviation table](/bench_pressing/step_deviation_table) here. Which calculate average - 1 SD. Then the step for that is placed in the chart.

@@ -19,3 +19,5 @@ Within the roll20 system there is currently no way I know of to automate adding 
 [Circle 5 Adepts](/Adepts/circle_five/)
 <br>
 [Circle 8 Adepts](/Adepts/circle_eight/)
+<br>
+[Circle 9 Adepts](/Adepts/circle_nine/)
