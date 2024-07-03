@@ -8,3 +8,7 @@ head:
 
 scripts:
   - /assets/scripts/pdf-functions.js
+  - /assets/js/stats-generator.js
+
+css:
+  - /assets/css/style.css

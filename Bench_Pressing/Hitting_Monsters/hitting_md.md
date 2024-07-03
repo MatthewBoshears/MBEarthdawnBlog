@@ -2,7 +2,7 @@
 layout: default
 title: Hitting Physical Armor
 nav_exclude: True
-permalink: bench_pressing/hitting_monsters/hitting_pa
+permalink: bench_pressing/hitting_monsters/hitting_md
 search_exclude: True
 ---
 # Hitting Physical Armor
@@ -32,7 +32,7 @@ Remember that karma is +4. So if you have a PER of 7 and a spellcasting rank of 
 | Necessary Effective Spellcasting Step | Target MD |  
 |  13 | 8  | 
 |  16 | 9  |
-|  16 | 10 |
+|  17 | 10 |
 |  20 | 12 |
 |  22 | 13 |
 |  24 | 15 |

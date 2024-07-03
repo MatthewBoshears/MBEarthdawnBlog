@@ -5,7 +5,7 @@ nav_exclude: True
 permalink: bench_pressing/hitting_monsters/knockdown
 search_exclude: True
 ---
-# Mystical Armor
+# knockdown
 
 <br>
 This is a breakdown of the Knockdown of every monster at each Circle Rating available in the books. This does not include horrors.
