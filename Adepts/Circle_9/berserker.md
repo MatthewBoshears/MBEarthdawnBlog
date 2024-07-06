@@ -16,7 +16,7 @@ Challenge: Warden (Ninth Circle)
 <br>
 DEX: 9 Initiative: 8 Unconsciousness: 190
 <br>
-STR: 11 Physical Defense: 13 Death Rating: 225
+STR: 11 Physical Defense: 13 Death Rating: 190
 <br>
 TOU: 12 Mystic Defense: 21 Wound Threshold: 1
 <br>
@@ -33,7 +33,7 @@ Actions: 3; Two-handed axe: 21 (24)
 <br>
 Powers:
 <br>
-Frenzy: If the Troll Berserker has 4 wounds, they gain an additional action, can use the Rally maneuver, and the Great Leap talent. If the Troll Berserker has 8 wounds, they lose all control and must only target the last person who dealt a wound to them. They gain 2 yards of movement rate per wound while benefitting from Fury. They are killed once they no longer benefit from Frenzy after receiving 8 wounds.
+Frenzy: If the Troll Berserker has 4 wounds, they gain an additional action, can use the Rally maneuver, and the Great Leap talent. If the Troll Berserker has 8 wounds, they lose all control and must only target the last person who dealt a wound to them. They gain 2 yards of movement rate per wound while benefitting from Fury. They are immediately killed once they no longer benefit from Fury after receiving 8 wounds or three rounds have passed.
 <br>
 Fury (10)
 <br>
@@ -56,6 +56,6 @@ Rally (Berserker, Close Combat): The Troll Berserker may spend two additional su
 <br>
 Heartening Laugh (Berserker, Close Combat): The Troll Berserker may spend two additional successes on an Attack test to use the Heartening Laugh talent as a free action.
 <br>
-Provoke (Opponent): Using this maneuver causes the Troll Berserker to target that person with as many attacks as possible.
+Provoke (Opponent): Using this maneuver causes the Troll Berserker to target that person with as many attacks as possible. If they cannot reach them this round they may use two attacks against a different target, but with a -6 to the attack test.
 <br>
-Manipulate (Opponent): Using this maneuver causes the Troll Berserker to lose 3 yards of movement until the end of the next round.
+Manipulate (Opponent): Using this maneuver causes the Troll Berserker to lose 3 yards of movement until the end of the next round. You may use this maneuver any number of times per round.

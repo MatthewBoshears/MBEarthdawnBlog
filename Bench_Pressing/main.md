@@ -14,7 +14,11 @@ The true "bench marking" pages/what you should be here for:
 <br>
 [Hitting Monster PA](/bench_pressing/hitting_monsters/hitting_pa)
 <br>
-[Hitting Monster MA](/bench_pressing/hitting_monsters/hitting_ma)
+TODO: Hitting Monster MA
+<br>
+TODO: Hitting Monster PD
+<br>
+[Hitting Monster MD](/bench_pressing/hitting_monsters/hitting_md)
 <br>
 TODO: Hitting Monster SD
 <br>
