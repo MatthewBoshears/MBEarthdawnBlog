@@ -14,13 +14,13 @@ The true "bench marking" pages/what you should be here for:
 <br>
 [Hitting Monster PA](/bench_pressing/hitting_monsters/hitting_pa)
 <br>
-TODO: Hitting Monster MA
+[Hitting Monster MA](/bench_pressing/hitting_monsters/hitting_ma)
 <br>
-TODO: Hitting Monster PD
+[Hitting Monster PD](/bench_pressing/hitting_monsters/hitting_pd)
 <br>
 [Hitting Monster MD](/bench_pressing/hitting_monsters/hitting_md)
 <br>
-TODO: Hitting Monster SD
+[Hitting Monster SD](/bench_pressing/hitting_monsters/hitting_sd)
 <br>
 [Player Physical Armor Goals](/bench_pressing/hitting_players/hitting_pa)
 <br>

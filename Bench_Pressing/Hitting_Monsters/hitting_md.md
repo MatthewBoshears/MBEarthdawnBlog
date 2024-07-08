@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hitting Physical Armor
+title: Hitting Mystic Defense
 nav_exclude: True
 permalink: bench_pressing/hitting_monsters/hitting_md
 search_exclude: True
