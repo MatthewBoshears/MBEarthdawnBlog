@@ -46,6 +46,8 @@ Novice and Journeyman Source Data
 <br>
 [Monster Damage](/bench_pressing/hitting_players/monster_damage)
 <br>
+[Bulk Stats for Generator](/bench_pressing/hitting_monsters/bulk_stats)
+<br>
 Warden Stats
 <br>
 [Death Rating](/bench_pressing/hitting_monsters_warden/death_rating_warden)
