@@ -118,10 +118,8 @@ document.addEventListener("DOMContentLoaded", function() {
             results[statName] = value;
         }
 
-        const attackIndex = Math.min(results["actions"] - 1, statsData["attack"][circle].length - 1); // Get the correct index
-        let attack = statsData["attack"][circle][attackIndex];
-        const damageIndex = Math.min(results["actions"] - 1, statsData["damage"][circle].length - 1); // Get the correct index
-        let damage = statsData["damage"][circle][damageIndex];
+        let attack = statsData["attack"][circle][results["attack"] - 1];
+        let damage = statsData["damage"][circle][results["damage"] - 1];
 
         if (randomnessPercent > 0) {
             const attackRandomnessRange = Math.round(attack * (randomnessPercent / 100));
