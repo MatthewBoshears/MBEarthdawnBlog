@@ -118,16 +118,6 @@ document.addEventListener("DOMContentLoaded", function() {
             results[statName] = value;
         }
 
-        if (randomnessPercent > 0) {
-            const attackRandomnessRange = Math.round(attack * (randomnessPercent / 100));
-            const attackRandomAdjustment = Math.floor(Math.random() * (attackRandomnessRange * 2 + 1)) - attackRandomnessRange;
-            attack = Math.max(1, attack + attackRandomAdjustment);
-
-            const damageRandomnessRange = Math.round(damage * (randomnessPercent / 100));
-            const damageRandomAdjustment = Math.floor(Math.random() * (damageRandomnessRange * 2 + 1)) - damageRandomnessRange;
-            damage = Math.max(1, damage + damageRandomAdjustment);
-        }
-
         // Formatted output string
         names = {1: "First", 2:"Second", 3:"Third", 4:"Fourth", 5:"Fifth", 6:"Sixth", 7:"Seventh", 8:"Eighth", 9:"Ninth", 10:"Tenth", 11:"Eleventh", 12:"Twelfth"}
         if (circle < 5) {
