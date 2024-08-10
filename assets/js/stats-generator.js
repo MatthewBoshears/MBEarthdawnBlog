@@ -118,9 +118,6 @@ document.addEventListener("DOMContentLoaded", function() {
             results[statName] = value;
         }
 
-        let attack = statsData["attack"][circle][results["attack"] - 1];
-        let damage = statsData["damage"][circle][results["damage"] - 1];
-
         if (randomnessPercent > 0) {
             const attackRandomnessRange = Math.round(attack * (randomnessPercent / 100));
             const attackRandomAdjustment = Math.floor(Math.random() * (attackRandomnessRange * 2 + 1)) - attackRandomnessRange;
