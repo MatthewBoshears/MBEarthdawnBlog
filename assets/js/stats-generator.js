@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function() {
             <p>WIL: ${results.WIL} Physical Armor: ${results.physicalArmor} Recovery Tests: ${results.recoveryTests}</p>
             <p>CHA: ${results.CHA} Mystic Armor: ${results.mysticArmor}</p>
             <p>Movement: ${results.movement}</p>
-            <p>Actions: ${results.actions}; Unarmed: ${attack} (${damage})</p>
+            <p>Actions: ${results.actions}; Unarmed: ${results.attack} (${results.damage})</p>
         `;
         }
         else if (circle < 9) {
