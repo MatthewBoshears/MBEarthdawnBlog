@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+<div id="pointsDisplay">Points to spend remaining: <span id="pointsValue">4</span></div>
+<div>
+  <label for="circleSlider">Circle:</label>
+  <input type="range" id="circleSlider" min="1" max="12" value="1">
+  <span id="circleValue">1</span>
+</div>
+
+<div id="stats">
+</div>
+
+<button id="generateButton">Generate</button>
+<div id="results"></div>
+
+<script src="{{ site.baseurl }}/assets/js/stats-generator-advanced.js"></script> 
