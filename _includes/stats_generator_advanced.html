@@ -1,15 +1,37 @@
-<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-<div id="pointsDisplay">Points to spend remaining: <span id="pointsValue">4</span></div>
-<div>
-  <label for="circleSlider">Circle:</label>
-  <input type="range" id="circleSlider" min="1" max="12" value="1">
-  <span id="circleValue">1</span>
-</div>
+<html>
+<head>
+  <title>Monster Stat Generator</title>
+  <style>
+    #pointsDisplay {
+      position: fixed;
+      top: 0; 
+      left: 67.5%;              /* Center horizontally */
+      transform: translateX(-50%); /* Adjust position to true center */
+      background-color: rgba(39, 38, 43, 0.9);  /* Match Just the Docs dark theme */ 
+      padding: 10px 20px;    /* Adjust padding as needed */
+      z-index: 100;
+      width: fit-content;      /* Adjust width to content */
+      /* Add any additional styling to match your theme */
+      border-bottom: 1px solid #373e47; /* Example border */
+    }
+  </style>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}"> 
+</head>
+<body>
+  <div id="pointsDisplay">Points to spend remaining: <span id="pointsValue">4</span></div>
 
-<div id="stats">
-</div>
+  <div>
+    <label for="circleSlider">Circle:</label>
+    <input type="range" id="circleSlider" min="1" max="12" value="1">
+    <span id="circleValue">1</span>
+  </div>
 
-<button id="generateButton">Generate</button>
-<div id="results"></div>
+  <div id="stats"></div>
+  <div id="checkboxes"></div>
 
-<script src="{{ site.baseurl }}/assets/js/stats-generator-advanced.js"></script> 
+  <button id="generateButton">Generate</button>
+  <div id="results"></div>
+
+  <script src="{{ site.baseurl }}/assets/js/stats-generator-advanced.js"></script>
+</body>
+</html>
